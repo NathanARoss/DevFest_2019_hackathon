@@ -1,0 +1,71 @@
+[
+    {
+        "name": "Fresno County Public Defender’s Office",
+        "reviews": [
+            {
+                "author": "Nathan Ross",
+                "body": "comment",
+                "accessibility": 1,
+                "preparation required": 1,
+                "fines and fees": 1,
+                "time": 1
+            }
+        ]
+    },
+    {
+        "name": "Fresno County Public Law Library",
+        "reviews": [
+            {
+                "author": "Nathan Ross",
+                "body": "comment",
+                "accessibility": 1,
+                "preparation required": 1,
+                "fines and fees": 1,
+                "time": 1
+            }
+        ]
+    },
+    {
+        "name": "Superior Court of California - County of Fresno",
+        "reviews": [
+            {
+                "author": "Nathan Ross",
+                "body": "comment",
+                "accessibility": 1,
+                "preparation required": 1,
+                "fines and fees": 1,
+                "time": 1
+            }
+        ]
+    },
+    {
+        "name": "The Judicial Branch of California",
+        "reviews": [
+            {
+                "author": "Nathan Ross",
+                "body": "comment",
+                "accessibility": 1,
+                "preparation required": 1,
+                "fines and fees": 1,
+                "time": 1
+            }
+        ]
+    },
+    {
+        "name": "Code for America - Clear My Record",
+        "reviews": [
+            {
+                "author": "Nathan Ross",
+                "body": "comment",
+                "accessibility": 1,
+                "preparation required": 1,
+                "fines and fees": 1,
+                "time": 1
+            }
+        ]
+    },
+    {
+        "name": "Superior Court of California - County of Sacramento",
+        "reviews": []
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Fresno County Public Defender’s Office",
+        "location": "Fresno, CA",
+        "url": "https://www.co.fresno.ca.us/departments/public-defender",
+        "services": "felony immigration rehabilitation petition FAQs selfhelp",
+        "description": "[...]The mission of the Public Defender's Office is to vigorously protect and defend the rights of indigent clients as guaranteed by the Sixth Amendment to the United States Constitution. Our goal is to provide full and fair legal representation with respect and compassion for all.",
+        "img": "1.png"
+    },
+    {
+        "name": "Fresno County Public Law Library",
+        "location": "Fresno, CA",
+        "url": "http://www.fresnolawlibrary.org/",
+        "services": "library court",
+        "description": "The Fresno County Public Law Library collection contains over 3300 titles, comprising over 44,000 volumes. We also provide access onsite to a number of legal databases that contain case law, statutes, and full text of many legal periodicals and treatises. To search the catalog, please click on the link above.",
+        "img": "2.png"
+    },
+    {
+        "name": "Superior Court of California - County of Fresno",
+        "location": "Fresno, CA",
+        "url": "http://www.fresno.courts.ca.gov/",
+        "services": "records court selfhelp",
+        "description": "The Superior Court of California, County of Fresno, will serve the community and enhance public trust and confidence in the administration of justice through: The impartial and timely resolution of disputes, Ensuring compliance with the law and court orders.",
+        "img": "3.png"
+    },
+    {
+        "name": "The Judicial Branch of California",
+        "location": "CA",
+        "url": "https://www.courts.ca.gov/",
+        "services": "juvenile petition court faqs",
+        "description": "Committed to providing fair and equal access to justice for all Californians.",
+        "img": "4.png"
+    },
+    {
+        "name": "Code for America - Clear My Record",
+        "location": "CA",
+        "url": "https://www.clearmyrecord.org/",
+        "services": "survey",
+        "price": "",
+        "description": "Clear My Record is a free, nonprofit, service for people with a criminal record in select California counties.",
+        "img": "5.png"
+    },
+    {
+        "name": "Superior Court of California - County of Sacramento",
+        "location": "Sacramento, CA",
+        "url": "https://www.saccourt.ca.gov/default.aspx",
+        "services": "juvenile petition court FAQs",
+        "price": "",
+        "description": "No Description",
+        "img": "6.png"
+    }
+]

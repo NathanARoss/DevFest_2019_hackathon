@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang=en-US>
+<!-- Alisson's code -->
+
+<head>
+    <title>C.A.R.E.S</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="main.css">
+    <script type="module" src="main.mjs"></script>
+</head>
+
+<body>
+    <div class="header">
+        <button id="menu-opener">
+            <!-- <img class="hamburger" src="hamburger.svg" /> -->
+            Filter
+        </button>
+        <h2>Constructive Analysis of Record Expunging Services</h2>
+        <h3>A review site for criminal record resources.
+            <p>Below is a list of resources pertaining to expungement of criminal records.</p>
+        </h3>
+        <form id="search-bar">
+            <input name="query">
+            <input type="submit" value="Keywords">
+        </form>
+    </div>
+    <div id="menu">
+        <p class="filter-category">Minimum Rating</p>
+        <img class="rating" src="star.svg">
+        <img class="rating" src="star.svg">
+        <img class="rating" src="star.svg">
+        <img class="rating" src="star.svg">
+        <img class="rating" src="star.svg"><br />
+        <form>
+            <input type="range" min="1" max="5" step="0.5" value="1" id="star-selector" name="minimum-rating"><br>
+            <hr>
+            <p class="filter-category">Services Provided</p>
+            <div class="two-column">
+                <label for="possession">Possession</label>
+                <input type="checkbox" id="possession" name="possession" checked="true">
+
+                <label for="felony">Felony Reduction</label>
+                <input type="checkbox" id="felony" name="felony" checked="true">
+
+                <label for="juvenile">Juvenile</label>
+                <input type="checkbox" id="juvenile" name="juvenile" checked="true">
+
+                <label for="rehabilitation">Rehabilitation</label>
+                <input type="checkbox" id="rehabilitation" name="rehabilitation" checked="true">
+
+                <label for="immigration">Immigrantion</label>
+                <input type="checkbox" id="immigration" name="immigration" checked="true">
+
+                <label for="petition">Petition Forms</label>
+                <input type="checkbox" id="petition" name="petition" checked="true">
+
+                <label for="court">Court Forms</label>
+                <input type="checkbox" id="court" name="court" checked="true">
+
+                <label for="library">Library Forms</label>
+                <input type="checkbox" id="library" name="library" checked="true">
+
+                <label for="records">Records</label>
+                <input type="checkbox" id="records" name="records" checked="true">
+
+                <label for="selfhelp">Self Help</label>
+                <input type="checkbox" id="selfhelp" name="selfhelp" checked="true">
+
+                <label for="FAQs">FAQs</label>
+                <input type="checkbox" id="FAQs" name="FAQs" checked="true">
+
+                <label for="survey">Survey</label>
+                <input type="checkbox" id="survey" name="survey" checked="true">
+            </div>
+            <hr>
+            <input type="submit" id="apply-filters" value="Apply Filters" />
+        </form>
+
+    </div>
+
+    <main>
+        <!-- This is not a real HTML node.  It is replaced by node.js before the user sees it -->
+        <resource-list />
+        <!-- <input id="name-field">
+    <button id="submit-name-to-list">Submit</button> -->
+    </main>
+
+    <footer>
+        <a href="contact.html">Contact Us</a><br>
+        &copy; DevFest Fresno Hackathon 2019.<br>Alisson Ross & Nathan Ross.<br>
+    </footer>
+</body>
+
+</html>
